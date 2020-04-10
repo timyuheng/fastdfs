@@ -1,1 +1,1 @@
-FROM season/fastdfs
+FROM season/fastdfs:latest
